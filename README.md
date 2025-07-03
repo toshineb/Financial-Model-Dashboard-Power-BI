@@ -25,7 +25,7 @@ Built for finance, operations, and executive teams, this model lets decision-mak
 - GL Amounts benchmarked against set **target and prior year values**.
 - Includes EBITA/EBITDA % and variance direction.
 
-### 📊 Cash Flow Statement  
+### 🌍 Variance by Country & GL Scenarios 
 ![Cash Flow Waterfall](./Screenshot%202025-07-03%20193755.png)  
 - Displays **Operating Cash Flow**, **Capital Expenditures**, **Investment Returns**, and **Net Flow from Operations**.
 - Waterfall chart shows how each line item drives net cash flow changes.
@@ -36,7 +36,7 @@ Built for finance, operations, and executive teams, this model lets decision-mak
 - Includes opening and closing GL balances with movement across fiscal periods.
 - Intuitive color coding for increase, decrease, and net totals.
 
-### 🌍 Variance by Country & GL Scenarios  
+###   📊 Cash Flow Statement 
 ![Variance View](./Screenshot%202025-07-03%20194218.png)  
 - Drill down into **variance by geographic division**.
 - Analyze GL trends by **USA, Canada, Australia, Germany, France**, and more.
